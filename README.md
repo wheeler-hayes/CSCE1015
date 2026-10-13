@@ -3,5 +3,4 @@ Assignment repository for UNT CSCE1015
 ## EUID
 
 ## Favorite Professor
-$(Dr. Yashu)
-(Dr. Yashu
+Dr. Yashu
